@@ -1,0 +1,44 @@
+html{
+	background-color: #4682B4;
+	font-family: Georgia, serif;
+	padding-left: 2%;
+	padding-top: 2%;
+}
+h1{
+	border-style:solid;
+	padding: 2%;
+}
+#name{
+	color: #FFDAB9;
+	font-weight: bolder;
+	border-style: none;
+	text-align: center;
+}
+h2{
+	font-weight: bold;
+}
+h3{
+	padding-bottom: 1px;
+}
+.employer{
+	font-style: italic;
+}
+.portrait{
+	width: 540px;
+	height: 405px;
+	float: left;
+	padding-left: 5%;
+}
+a{
+	color: #00008B;
+}
+a:visited{
+	color: #E0FFFF;
+}
+a:hover{
+	color: #FFDAB9;
+}
+.links{
+	text-align: center;
+	font-size: 22px;
+}
